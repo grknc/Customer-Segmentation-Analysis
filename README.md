@@ -24,6 +24,14 @@ Segmentasyon modeli, kümeleme teknikleri kullanılarak geliştirilecektir. Sür
 ## Kurulum
 Proje ortamını ayarlama talimatları.
 
+## Dockerfile
+Projemizde .src/ dosyası altındaki segmentasyon_model.py dosyası dockerfile üzerinden katmanlandı.
+
+## GitHub Actions
+Projenin .github/workflows klasöründe, GitHub Actions için otomasyon senaryoları bulunur. 
+Bu bölümde, bu senaryoların ne işe yaradığı ve nasıl kullanıldığına dair açıklamalar yer alabilir.
+
+
 ## Kullanım
 EDA scriptlerini ve model eğitimini/testini çalıştırma yönergeleri.
 
