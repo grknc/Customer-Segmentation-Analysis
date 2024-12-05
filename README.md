@@ -24,6 +24,7 @@ Segmentasyon modeli, kümeleme teknikleri kullanılarak geliştirilecektir. Sür
 ## Kurulum
 Proje ortamını ayarlama talimatları.
 
+
 ## Dockerfile
 Projemizde .src/ dosyası altındaki segmentasyon_model.py dosyası dockerfile üzerinden katmanlandı.
 
@@ -36,6 +37,6 @@ Bu bölümde, bu senaryoların ne işe yaradığı ve nasıl kullanıldığına 
 EDA scriptlerini ve model eğitimini/testini çalıştırma yönergeleri.
 
 ## Katkıda Bulunma
-
+Projeye katkıda bulunabilirsiniz.
 
 ## Lisans
