@@ -40,3 +40,4 @@ EDA scriptlerini ve model eğitimini/testini çalıştırma yönergeleri.
 Projeye katkıda bulunabilirsiniz.
 
 ## Lisans
+Lisanslama işlemi tamamlanmadı.
