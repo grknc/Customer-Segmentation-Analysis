@@ -8,6 +8,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 import numpy as np
 import pandas as pd
 import seaborn as sns
+import random
 from matplotlib import pyplot as plt
 import random
 # !pip install missingno
